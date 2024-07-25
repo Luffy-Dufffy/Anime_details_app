@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage> {
             ),
             IconButton(
               onPressed: () {},
-              icon: const Icon(Icons.refresh_rounded),
+              icon: const Icon(Icons.refresh),
             ),
           ],
         ),
